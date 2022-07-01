@@ -1,4 +1,4 @@
-### 💻 These repo contains my programming certificates earned taking different courses, challenges or assessments. 
+### 💻 This repo contains my programming certificates earned taking different courses, challenges or assessments. 
 
 ___
 
