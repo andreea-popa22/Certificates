@@ -8,7 +8,15 @@ ___
 
 ​	🔸 Android Fundamentals with Kotlin [click here](https://github.com/andreea-popa22/Certificates/blob/master/uploads/Diploma%20Android%20Fundamentals%20Kotlin%20mai%202022%202%20IULIA%20ANDREEA%20POPA.pdf)
 
-___
+____
+
+
+
+### ◻️ Microsoft:
+
+​	🔸 Microsoft Azure Fundamentals AZ-900 [click here](https://www.credly.com/badges/cdf58a59-fc84-457e-91b2-bad793b34ee4/email)
+
+____
 
 
 
